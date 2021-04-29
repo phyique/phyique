@@ -1,7 +1,6 @@
 ### Hi there, I'm Vaun 👋
 
 I am a software engineer, programming language and crypto enthusiast from Jamaica
-**phyique/phyique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
