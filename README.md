@@ -5,7 +5,7 @@ I am a software engineer, programming language and crypto enthusiast from Jamaic
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Precision Graphics](https://github.com/phyique/PrecisionGraphics)
-- 🌱 I’m currently learning Scala
+- 🌱 I’m currently learning Scala, Typescript
 
 **Languages and Tools:**  
 
