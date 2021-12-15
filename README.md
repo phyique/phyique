@@ -1,4 +1,4 @@
-### Hi there, I'm Vaun 👋
+### Hi there, I'm Phyique 👋
 
 I am a software engineer, programming language and crypto enthusiast from Jamaica
 
